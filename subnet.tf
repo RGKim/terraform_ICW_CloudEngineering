@@ -38,4 +38,3 @@ resource "aws_subnet" "private_1c" {
 }
 
 
-
